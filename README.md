@@ -25,9 +25,13 @@ Help executives tailor their marketing strategies on the basis of the sales and 
 
 ### Dashboard:
 
-![image](https://github.com/user-attachments/assets/c2f38b69-a616-4778-bfd2-501d36eae021)
-![image](https://github.com/user-attachments/assets/619db2f9-5f1b-4e44-9c5d-cf17ce87e28d)
-![image](https://github.com/user-attachments/assets/5f7b5ca1-d2a8-4f81-91e0-934b9e17fbd2)
+![image](https://github.com/user-attachments/assets/00d1ba6b-c904-4c7c-9e6b-7b70cc18c62a)
+![image](https://github.com/user-attachments/assets/76e89fd8-a828-45f4-9943-9c6a736ac4cc)
+![image](https://github.com/user-attachments/assets/48080f0d-15d9-45c3-9c40-5f93af4cb1c5)
+
+- Snip 1: Executive Dashboard
+- Snip 2: A drill through product details dashboard ( any product from executive dashboard can be selected and the details will get populated)
+- Snip 3: Customer profiling
 
 ### Top Insights:
 1. Revenue has increased by > 45% in 2021 vis-a-vis 2020
@@ -37,6 +41,9 @@ Help executives tailor their marketing strategies on the basis of the sales and 
 5. Sports helmet has the highest return rate of > 3%
 6. In clothing category, Logo Caps are the highest ordered
 7. Maximum orders come from the U.S.
+
+### Note:
+Only Sales dataset has been uploaded. 
 
 
 
